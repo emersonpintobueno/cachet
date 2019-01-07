@@ -1,0 +1,423 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Ser",
+				"Serviços"
+			],
+			[
+				"ap",
+				"apache"
+			],
+			[
+				"li",
+				"link\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ind",
+				"Indent XML"
+			],
+			[
+				"inde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"in",
+				"Indent XML"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"hi",
+				"Highlight Duplicates: Select Duplicates"
+			],
+			[
+				"js",
+				"JSON Reindent: reindent file or selection"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"i",
+				"Indent JSON"
+			],
+			[
+				"jso",
+				"Set Syntax: JSON"
+			],
+			[
+				"ope",
+				"Open URL"
+			],
+			[
+				"x",
+				"Set Syntax: XML"
+			],
+			[
+				"XML",
+				"Set Syntax: XML"
+			],
+			[
+				"xm",
+				"Set Syntax: XML"
+			],
+			[
+				"indentatio",
+				"Indentation: Reindent Lines"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/run/user/1000/gvfs/smb-share:server=192.168.1.37,share=moderador"
+	],
+	"file_history":
+	[
+		"/run/user/1000/gvfs/smb-share:server=192.168.1.37,share=moderador/TODO.txt",
+		"/var/www/curso/index.php",
+		"/etc/php/7.2/apache2/conf.d/xdebug.ini",
+		"/etc/php/7.2/apache2/php.ini",
+		"/var/www/curso/curso.sublime-project",
+		"/home/emerson/.config/sublime-text-3/Packages/User/Xdebug.sublime-settings",
+		"/home/emerson/Documentos/portas.txt",
+		"/home/emerson/Documentos/Vista/XML/xml-18-14624 (2).xml",
+		"/home/emerson/Documentos/Vista/XML/xml-18-14624 (1).xml",
+		"/home/emerson/Documentos/linphone-ramais.sh",
+		"/home/emerson/Documentos/Vista/XML/xml-18-14624.xml",
+		"/home/emerson/.PlayOnLinux/wineprefix/PSC4/drive_c/Photshop.reg",
+		"/home/emerson/Documentos/Vista/XML/xml-18-15499.xml",
+		"/home/emerson/Documentos/Repositorio/IMOBILIÁRIA PRATES LTDA. - 18836/Relatorios/20181203-12886/Etiquetas17-Referencia.xml",
+		"/home/emerson/Documentos/Vista/XML/xml-18-18455.xml",
+		"/home/emerson/Documentos/Vista/XML/xml-18-15888.xml",
+		"/home/emerson/Documentos/Vista/XML/klabinim.xml",
+		"/home/emerson/Documentos/Modelos De Consulta",
+		"/home/emerson/Downloads/google336bdf39a03702da.html",
+		"/home/emerson/Documentos/Vista/Temp/xml-18-8768.xml",
+		"/home/emerson/Documentos/Vista/XML/kondorim11227.xml",
+		"/home/emerson/Documentos/Vista/Temp/xml-18-15155.xml",
+		"/home/emerson/Documentos/blacklist.txt",
+		"/home/emerson/Documentos/Vista/Temp/xml-18-11514.xml",
+		"/home/emerson/Documentos/Repositorio/Anagê Imoveis Ltda - 3014/Layouts/20181205-12243/OPS.txt",
+		"/home/emerson/Documentos/Vista/XML/iw_ofertas.xml",
+		"/home/emerson/Documentos/Vista/Temp/xml-43-3014.xml",
+		"/home/emerson/Documentos/Vista/Temp/xml-12-7206.xml",
+		"/home/emerson/Documentos/Vista/XML/xml-18-3012.xml",
+		"/home/emerson/Documentos/Vista/Temp/xml-12-13044.xml",
+		"/home/emerson/Documentos/Vista/Temp/xml-43-3014 (4).xml",
+		"/home/emerson/Documentos/Vista/Temp/xml-43-3014 (1).xml",
+		"/home/emerson/Documentos/Vista/Temp/xml-43-3014 (2).xml",
+		"/home/emerson/Documentos/Vista/Temp/SANVICENTE.CLS.csv",
+		"/home/emerson/Documentos/Vista/XML/xml-18-7168.xml",
+		"/home/emerson/Documentos/Vista/XML/xml-445-3014.xml",
+		"/home/emerson/Documentos/Vista/XML/xml-12-16288 (1).xml",
+		"/home/emerson/Documentos/Vista/XML/xml-12-16288 (2).xml",
+		"/home/emerson/Documentos/Vista/XML/xml-12-16288.xml",
+		"/home/emerson/Documentos/Vista/XML/xml-18-16288.xml",
+		"/home/emerson/Documentos/ConsultaTrocaImoveis.php",
+		"/home/emerson/Documentos/Vista/XML/xml-12-2738.xml",
+		"/home/emerson/Documentos/Vista/Temp/Lista de fotos faltando.txt",
+		"/home/emerson/Documentos/Vista/Temp/Lista de Imóveis Terra Lima.csv",
+		"/home/emerson/Downloads/2018-11-27 10:34:59.336/17084162.txt",
+		"/home/emerson/Downloads/2018-11-27 10:34:59.336/170841851.txt",
+		"/home/emerson/Documentos/Vista/Temp/xml-18-17426.xml",
+		"/home/emerson/Documentos/Repositorio/ELO8 IMÓVEIS - 12551/Layouts/20181126-12038/Lista.txt",
+		"/home/emerson/Downloads/wp-config.php",
+		"/tmp/fz3temp-2/wp-config.php",
+		"/home/emerson/Documentos/Repositorio/Sinai Imobiliária (Matriz) - 3337/Relatorios/20181123-11856/PropostaReservaLocacao.mrl",
+		"/tmp/mozilla_emerson0/xml-18-18717.xml",
+		"/tmp/mozilla_emerson0/xml-18-18717-1.xml",
+		"/tmp/mozilla_emerson0/xml-12-7372.xml",
+		"/tmp/mozilla_emerson0/xml-18-17433-1.xml",
+		"/tmp/mozilla_emerson0/xml-18-17433.xml",
+		"/home/emerson/Downloads/2018-11-19 17:15:10.457/hubspot-crm-view-contacts-todos-os-contatos-2018-11-19--.csv",
+		"/tmp/mozilla_emerson0/error-1.log",
+		"/tmp/mozilla_emerson0/error.log",
+		"/tmp/mozilla_emerson0/xml-18-8768.xml",
+		"/tmp/mozilla_emerson0/xml-18-19061.xml",
+		"/tmp/mozilla_emerson0/xml-633-17397.xml",
+		"/tmp/mozilla_emerson0/xml-18-2857-atendimento@dimovel.com.br.xml",
+		"/tmp/mozilla_emerson0/aviso-4.xml",
+		"/tmp/mozilla_emerson0/aviso-3.xml",
+		"/tmp/mozilla_emerson0/aviso-2.xml",
+		"/tmp/mozilla_emerson0/aviso-1.xml",
+		"/tmp/mozilla_emerson0/aviso.xml",
+		"/tmp/mozilla_emerson0/log_berte_imoveis_rgi.log",
+		"/tmp/mozilla_emerson0/xml-12-17977.xml",
+		"/home/emerson/Documentos/Vista/XML/bonsdias.xml",
+		"/home/emerson/Documentos/Vista/Temp/untitled.html",
+		"/tmp/mozilla_emerson0/xml-18-9847.xml",
+		"/tmp/mozilla_emerson0/xml-43-7345.xml",
+		"/home/emerson/Documentos/Vista/XML/jbaimo.xml",
+		"/tmp/mozilla_emerson0/imoveis-1.csv",
+		"/home/emerson/Documentos/SingleClick/relaçãoIPs.txt",
+		"/tmp/mozilla_emerson0/xml-18-18030.xml",
+		"/tmp/mozilla_emerson0/xml-12-3911.xml",
+		"/tmp/mozilla_emerson0/xml-18-9366.xml",
+		"/tmp/mozilla_emerson0/xml-12-3017-1.xml",
+		"/tmp/mozilla_emerson0/xml-12-3017.xml",
+		"/home/emerson/Documentos/Acessos.txt",
+		"/tmp/mozilla_emerson0/message.rfc822",
+		"/tmp/Vista_Desktop.log",
+		"/tmp/Vista.log",
+		"/tmp/mozilla_emerson0/xml-47-7559.xml",
+		"/tmp/mozilla_emerson0/xml-12-38.xml",
+		"/home/emerson/Documentos/Vista/XML/bortolin.xml",
+		"/tmp/mozilla_emerson0/xml-12-16481-3.xml",
+		"/tmp/mozilla_emerson0/xml-12-16481.xml",
+		"/tmp/mozilla_emerson0/xml-12-16481-1.xml",
+		"/tmp/mozilla_emerson0/xml-12-16481-2.xml",
+		"/tmp/fz3temp-2/wp-config-sample.php",
+		"/tmp/mozilla_emerson0/xml-18-7168-2.xml",
+		"/tmp/fz3temp-2/wp-settings.php",
+		"/tmp/mozilla_emerson0/xml-18-7168-1.xml",
+		"/tmp/mozilla_emerson0/xml-18-7168.xml",
+		"/tmp/mozilla_emerson0/xml-12-9115.xml",
+		"/home/emerson/Documentos/Vista/XML/terraz83.xml",
+		"/tmp/mozilla_emerson0/xml-12-8316.xml",
+		"/tmp/mozilla_emerson0/xml-43-18455.xml",
+		"/tmp/mozilla_emerson0/xml-18-8316-1.xml",
+		"/home/emerson/Documentos/Vista/Temp/Terraz/terraz83.xml",
+		"/tmp/mozilla_emerson0/xml-18-8316.xml",
+		"/home/emerson/WebServerInit.sh",
+		"/tmp/mozilla_emerson0/xml-12-8316-1.xml",
+		"/home/emerson/Repositorio/Terraz Assessoria Imobiliaria Plena - 8316/Layouts/20181022-10406/terraz83.xml",
+		"/tmp/mozilla_emerson0/xml-12-12021.xml",
+		"/tmp/mozilla_emerson0/xml-18-12021.xml",
+		"/home/emerson/Gdrive/Projetos/PassManager/PassManager/src/passmanager/Manager.java",
+		"/tmp/mozilla_emerson0/xml-12-12509.xml",
+		"/home/emerson/Documentos/Vista/XML/xml-12-8316.xml",
+		"/home/emerson/Documentos/Vista/XML/xml-18-2662.xml",
+		"/home/emerson/Documentos/Mensagens.txt",
+		"/home/emerson/Documentos/Vista/XML/xml-12-12066-2.xml",
+		"/home/emerson/Documentos/Vista/XML/xml-12-12066-1.xml",
+		"/home/emerson/Documentos/Vista/XML/xml-12-12066.xml",
+		"/home/emerson/Documentos/Vista/XML/xml-592-14746.xml",
+		"/home/emerson/Documentos/Vista/XML/xml-18-18717.xml",
+		"/home/emerson/Gdrive/Falcoes.txt",
+		"/home/emerson/Documentos/Vista/XML/xml-18-19390.xml",
+		"/home/emerson/Gdrive/atualizar.sh",
+		"/home/emerson/Documentos/Vista/XML/xml-18-15948.xml",
+		"/home/emerson/Documentos/Vista/XML/xml-12-17934.xml",
+		"/home/emerson/Documentos/Vista/XML/xml-18-18095.xml",
+		"/home/emerson/Downloads/Senhas do Chrome.csv",
+		"/home/emerson/Downloads/Takeout/Perfil/Perfil.json"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"xdeb"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.xdebug":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "moderador.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"xdebug":
+		{
+			"hide_conflict": false,
+			"restore_index":
+			{
+				"42":
+				{
+					"group": 0,
+					"index": 0
+				}
+			},
+			"restore_layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			}
+		}
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 259.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

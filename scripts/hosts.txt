@@ -1,0 +1,8 @@
+vista|http://vws-01.novovista.com.br|7
+vista|http://vws-02.novovista.com.br|8
+vista|http://vws-03.novovista.com.br|9
+vista|http://vwc-01.novovista.com.br|10
+api|http://teixeira-rest.vistahost.com.br/imoveis/listarcampos?key=c4d14eaf04275c43871ad3f447efd6d4|1
+api|http://zimmerma-rest.vistahost.com.br/imoveis/listarcampos?key=d8e8c6075598573c807e895f80ce4161|4
+api|http://friasnet-rest.vistahost.com.br/imoveis/listarcampos?key=ca7a62804c677136dd505a7c775933b2|5
+api|http://redegauc-rest.vistahost.com.br/imoveis/listarcampos?key=6e1aea6067908fcba693cec9e3182929|6

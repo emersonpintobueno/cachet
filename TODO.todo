@@ -1,0 +1,12 @@
+ ☐ Providenciar API para Integração com Amazon
+ ☐ Providenciar API para Integração com Zabbix que monitora nossa infra
+ ☐ Alterar script para inserir um incidente quando acontecer alguma indisponibilidade - In progress
+ 	☐ Criar função para verificar o último incidente para este componente e validar para inserir ou não um novo incidente de indisponibilidade - In progress
+ ☐ Fazer um checklist de todos os recursos que precisam ser instalados no servidor para rodar o Cachet
+
+  Rodar atualização automatica
+
+  Usuário: status
+  Email: status@vistasoft.com.br
+  Chave: 4A7ixgkU4hcCWFReQ15G
+  URL: http://192.168.1.37/api/v1/components
